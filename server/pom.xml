@@ -15,7 +15,7 @@
     <properties>
         <maven.compiler.source>13</maven.compiler.source>
         <maven.compiler.target>13</maven.compiler.target>
-        <CXF.version>3.4.10</CXF.version>
+        <CXF.version>3.5.8</CXF.version>
         <jackson.version>2.10.5</jackson.version>
         <log4j.version>2.17.1</log4j.version>
     </properties>
