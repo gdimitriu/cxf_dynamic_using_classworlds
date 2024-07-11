@@ -15,7 +15,7 @@ run from application/target
 
 run with
 
-java -classpath ./lib/plexus-classworlds-2.6.0.jar -Dclassworlds.conf=./config/classworlds.conf -Dlog4j.configuration=file:/home/gaby/public-git/cxf_dynamic_using_classworlds/application/target/config/LogConfig.xml org.codehaus.plexus.classworlds.launcher.Launcher 
+java -classpath ./lib/plexus-classworlds-2.8.0.jar -Dclassworlds.conf=./config/classworlds.conf -Dlog4j.configuration=file:/home/gaby/public-git/cxf_dynamic_using_classworlds/application/target/config/LogConfig.xml org.codehaus.plexus.classworlds.launcher.Launcher 
 
 ## TESTING
 see the open api to make request to the REST API.
