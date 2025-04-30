@@ -22,6 +22,7 @@
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
+        <CXF.version>3.6.4</CXF.version>
     </properties>
 
 </project>
